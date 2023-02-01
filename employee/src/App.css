@@ -1,0 +1,25 @@
+.Contain{
+  text-align: center;
+}
+input{
+  text-align: center;
+}
+button{
+  background-color: lightblue;
+  border-radius: 5px;
+  font-size: 12px;
+  color: darkblue;
+  width: 60px;
+  height: 25px;
+}
+.Sub{
+  background-color: green;
+  border-radius: 5px;
+  font-size: 12px;
+  color: antiquewhite;
+  width: 60px;
+  height: 25px;
+}
+.Bor{
+  border: 12px;
+}
